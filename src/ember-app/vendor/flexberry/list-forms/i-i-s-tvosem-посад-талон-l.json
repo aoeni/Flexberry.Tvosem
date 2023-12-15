@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-tvosem-посад-талон-e",
+  "editForm": "i-i-s-tvosem-посад-талон-e",
+  "external": false,
+  "caption": "Посадочный талон",
+  "name": "IISTvosemПосадТалонL",
+  "className": "ПосадТалонL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-tvosem-посад-талон",
+      "modelProjection": "ПосадТалонL"
+    }
+  ]
+}
